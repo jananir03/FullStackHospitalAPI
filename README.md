@@ -50,7 +50,7 @@ A full-stack web application built using **FastAPI (Backend)** and **React (Fron
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 
@@ -129,7 +129,7 @@ Authorization: Bearer <token>
 
 ---
 
-## 📌 API Endpoints
+##  API Endpoints
 
 ### Auth
 
@@ -166,7 +166,7 @@ Authorization: Bearer <token>
 
 ---
 
-## 📌 Notes
+## Notes
 
 * Ensure backend is running before frontend
 * Use Swagger for testing APIs
